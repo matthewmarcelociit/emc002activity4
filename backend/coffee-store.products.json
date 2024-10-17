@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6710bee6c24e9e5db2d941ce"
+  },
+  "name": "Espresso",
+  "price": 5,
+  "description": "Rich and bold espresso",
+  "imageUrl": "https://raw.githubusercontent.com/matthewmarcelociit/emc002activity3/refs/heads/main/public/espresso.jpg"
+},
+{
+  "_id": {
+    "$oid": "6710c039c24e9e5db2d941cf"
+  },
+  "name": "Cappuccino",
+  "price": 6,
+  "description": "Creamy cappuccino",
+  "imageUrl": "https://raw.githubusercontent.com/matthewmarcelociit/emc002activity3/refs/heads/main/public/cappuccino.jpg"
+},
+{
+  "_id": {
+    "$oid": "6710c05cc24e9e5db2d941d0"
+  },
+  "name": "Latte",
+  "price": 5.5,
+  "description": "Smooth latte with milk",
+  "imageUrl": "https://raw.githubusercontent.com/matthewmarcelociit/emc002activity3/refs/heads/main/public/latte.jpg"
+}]
